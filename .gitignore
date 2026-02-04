@@ -1,0 +1,28 @@
+# --- Visual Studio / C# .gitignore ---
+
+# Carpetas de compilación (Binarios y objetos temporales)
+# Estas se regeneran cada vez que compilas
+[Bb]in/
+[Oo]bj/
+
+# Archivos específicos de usuario (Tus configuraciones personales)
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpeta oculta de configuración interna de Visual Studio
+.vs/
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+
+# Paquetes NuGet (Librerías externas)
+# Se descargan automáticamente al restaurar paquetes, no hace falta subirlos
+*.nupkg
+**/packages/*
+
+# Archivos de sistema (Miniaturas de Windows, etc.)
+[Tt]humbs.db
+.DS_Store
