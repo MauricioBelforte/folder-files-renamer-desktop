@@ -2,7 +2,7 @@
 
 Herramienta de escritorio desarrollada en C# para el renombrado masivo de archivos basado en el nombre de su carpeta contenedora. Ideal para organizar colecciones de datos, fotos o documentos de forma automática.
 
-![Captura de pantalla de la aplicación](URL_DE_LA_IMAGEN_AQUI) <!-- ¡No olvides añadir una captura de pantalla! -->
+![Captura de pantalla de la aplicación](assets/RenombraArchivos.png)
 
 ## ✨ Características
 
@@ -13,7 +13,7 @@ Herramienta de escritorio desarrollada en C# para el renombrado masivo de archiv
 
 ## 🚀 Cómo usar
 
-1.  Descarga el archivo ejecutable desde la sección de [Releases](URL_A_RELEASES_EN_GITHUB).
+1.  Descarga el archivo ejecutable desde la sección de [Releases](https://github.com/MauricioBelforte/folder-files-renamer-desktop/releases/tag/v1.0.0).
 2.  Ejecuta el programa.
 3.  Arrastra y suelta la carpeta que contiene los archivos sobre la ventana de la aplicación.
 4.  ¡Listo! Los archivos serán renombrados siguiendo el patrón `NombreDeLaCarpeta-1`, `NombreDeLaCarpeta-2`, etc.
